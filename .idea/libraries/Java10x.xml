@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Java10x">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Material_Complementar/Java10x/herenca.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Material_Complementar/Java10x/resposta-desafio-3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Material_Complementar/Java10x/interfaces.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
